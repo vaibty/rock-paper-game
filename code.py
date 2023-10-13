@@ -3,7 +3,7 @@ from PIL import ImageTk, Image
 import random
 import os
 
-os.chdir("rock-paper-game")
+os.chdir("rock-paper-game/pics")
 
 # main window object
 root = Tk()
