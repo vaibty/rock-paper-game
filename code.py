@@ -29,7 +29,7 @@ l2.place(x=560, y=20)
 l3.place(x=370, y=230)
 
 # Default image
-img_p = Image.open("default.jpeg")
+img_p = Image.open("rock.jpeg")
 img_p = img_p.resize((300, 300))
 
 # Flipping image from left to right
